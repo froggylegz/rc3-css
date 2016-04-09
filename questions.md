@@ -1,9 +1,9 @@
 ## Review Questions
 
-1.  Describe the following:
+### What does this mean?
 
 ```CSS
-  h3.section {
+  h3.sectionTitle {
     border: 1px solid blue;
     background-color: #9f9691;
     font-size: 2em;
@@ -11,10 +11,10 @@
   }
 ```
 
-1.  Describe the 3 ways to add CSS to your page.
+### Describe the 3 ways to add CSS to your page.
  + What are the benefits of each?
 
-1. What color is the text in these examples:
+### What color is the text in these examples:
 
 ```CSS
   div.box {
@@ -40,4 +40,4 @@
   </div>
 ```
 
-1. Describe how you could experiment with CSS styles before adding them to your page.
+### How you could experiment with CSS styles before adding them to your page?
