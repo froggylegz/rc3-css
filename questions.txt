@@ -1,0 +1,39 @@
+Review Questions:
+
+1.  Describe the following:
+
+h3.section {
+  border: 1px solid blue;
+  background-color: #9f9691;
+  font-size: 2em;
+  margin: 10px;
+}
+
+2.  Describe the 3 ways to add CSS to your page.
+  a. What are the benefits of each?
+
+3. What color is the text in these examples:
+
+div.box {
+  color: blue;
+}
+
+  a.
+
+    <div class="box">
+      <p>This is some text</p>
+    </div>
+
+  b.
+
+    <div class="box">
+      <p style="color:red;">This is some text</p>
+    </div>
+
+  c.
+
+    <div class="container box">
+      This is some text
+    </div>
+
+4. Describe how you could experiment with CSS styles before adding them to your page.
